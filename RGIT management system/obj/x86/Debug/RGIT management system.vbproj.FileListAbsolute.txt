@@ -1,0 +1,10 @@
+c:\users\ag studios\documents\visual studio 2010\Projects\RGIT management system\RGIT management system\bin\Debug\RGIT management system.exe
+c:\users\ag studios\documents\visual studio 2010\Projects\RGIT management system\RGIT management system\bin\Debug\RGIT management system.pdb
+c:\users\ag studios\documents\visual studio 2010\Projects\RGIT management system\RGIT management system\bin\Debug\RGIT management system.xml
+c:\users\ag studios\documents\visual studio 2010\Projects\RGIT management system\RGIT management system\obj\x86\Debug\RGIT_management_system.Form1.resources
+c:\users\ag studios\documents\visual studio 2010\Projects\RGIT management system\RGIT management system\obj\x86\Debug\RGIT_management_system.Resources.resources
+c:\users\ag studios\documents\visual studio 2010\Projects\RGIT management system\RGIT management system\obj\x86\Debug\RGIT management system.vbproj.GenerateResource.Cache
+c:\users\ag studios\documents\visual studio 2010\Projects\RGIT management system\RGIT management system\obj\x86\Debug\RGIT management system.exe
+c:\users\ag studios\documents\visual studio 2010\Projects\RGIT management system\RGIT management system\obj\x86\Debug\RGIT management system.xml
+c:\users\ag studios\documents\visual studio 2010\Projects\RGIT management system\RGIT management system\obj\x86\Debug\RGIT management system.pdb
+C:\Users\AG Studios\documents\visual studio 2010\Projects\RGIT management system\RGIT management system\bin\Debug\RGIT management system.exe.config
