@@ -1,7 +1,7 @@
-#Objectives: Develop an Institution management system (based on VB.NET platform) linked with Microsoft Access Database as infrastructural support. The primary purpose of this application is to automate students, modules, staff’s information and other data resources.
+# Objectives: Develop an Institution management system (based on VB.NET platform) linked with Microsoft Access Database as infrastructural support. The primary purpose of this application is to automate students, modules, staff’s information and other data resources.
 The system Functionality
 
-##1.1 Create the following database for the following list and add functions to each one of
+## 1.1 Create the following database for the following list and add functions to each one of
 them 
 *Student Management
 
